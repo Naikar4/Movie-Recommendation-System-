@@ -6,12 +6,19 @@ This project is a movie recommendation system built with Streamlit and powered b
 
 2).Some files are not available on GitHub due to the large file size. you can get it [HERE](https://huggingface.co/sujoy0011/Movie-Recommendation-System/tree/main)
 # Table of Contents
-. Overview
-. Theory of Recommendation Systems
-. Installation
-. Usage
-. Dataset
-. Model
-. Results
-. Contributing
-. License
+. [Overview](url)
+
+. [Theory of Recommendation Systems](url)
+
+. [Installation]([url](url))
+
+. [Usage](url)
+
+. [Dataset](url)
+
+. [Model](url)
+
+. [Results](url)
+
+. [Contributing](url)
+
