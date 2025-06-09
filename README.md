@@ -1,2 +1,6 @@
-# Movie-Recommendation-System-
- Built an interactive Movie Recommendation System that suggests top 5 similar movies based on a selected title. Used content-based filtering with a similarity matrix computed from movie features. Integrated the system into a user-friendly web app using Streamlit for real-time recommendations. 
+# Movie-Recommendation-System
+This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
+
+YouTube tutorial [HERE](url)
+Dataset is HERE
+Some files are not available on GitHub due to the large file size. you can get it HERE
